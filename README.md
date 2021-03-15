@@ -8,6 +8,5 @@ Script bem tosco para saber os Metodos HTTP de um determinado host.
     
     cd MethodHTTP/
     
-    chmod +x MethodHTTP.py
     
     python3 MethodHTTP.py
